@@ -1,0 +1,26 @@
+# Godot 4 generated files
+.godot/
+/android/
+
+# Godot C# / .NET build artifacts
+**/bin/
+**/obj/
+
+# Local mod export output
+/build/
+
+# Local game/mod loader assemblies used only as compile-time references
+/libs/*.dll
+
+# Visual Studio / JetBrains project state
+.vs/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
